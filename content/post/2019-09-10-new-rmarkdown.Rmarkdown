@@ -21,9 +21,6 @@ projects: []
 
 Testing 
 
-![](/post/2019-09-10-new-rmarkdown_files/key_1.png)
-
-
 ```{r}
 plot(cars$speed, cars$dist)
 ```

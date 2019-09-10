@@ -23,8 +23,6 @@
 
 &lt;p&gt;Testing&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../post/2019-09-10-new-rmarkdown_files/key_1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;plot(cars$speed, cars$dist)
 &lt;/code&gt;&lt;/pre&gt;
 
