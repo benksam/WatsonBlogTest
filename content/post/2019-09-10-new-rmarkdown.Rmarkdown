@@ -1,0 +1,30 @@
+---
+title: New Rmarkdown
+author: ''
+date: '2019-09-10'
+slug: new-rmarkdown
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-09-10T07:57:39Z'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+### New post
+
+Testing 
+
+![](/post/2019-09-10-new-rmarkdown_files/key_1.png)
+
+
+```{r}
+plot(cars$speed, cars$dist)
+```
+

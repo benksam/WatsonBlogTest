@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568102260950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D226111D",
+    "lastKnownWriteTime" : 1568102344,
+    "last_content_update" : 1568102344106,
+    "path" : "~/Blogdown/Academic/content/post/2019-09-10-new-rmarkdown.Rmarkdown",
+    "project_path" : "content/post/2019-09-10-new-rmarkdown.Rmarkdown",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "21"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
